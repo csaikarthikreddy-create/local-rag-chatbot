@@ -13,11 +13,4 @@ Welcome to the **Local LLM-based Retrieval-Augmented Generation (RAG) System**! 
 3. Configure `constants.py` for embedding models and OpenSearch settings.
 4. Run the Streamlit app: `streamlit run welcome.py`
 
-### 📘 Blog Guide
-For a detailed walkthrough of the setup and code, check out our blog:
-
-
-
----
-
 Enjoy your journey in building a private, AI-driven document management system! If you find this project useful, consider sharing it with others in the community!
